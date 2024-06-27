@@ -18,7 +18,9 @@ Navigation par Flèches : Boutons de navigation pour parcourir les images.
 Survol des Miniatures : Changement d'image principale en survolant les miniatures.
 
 Compteur de Produits
+
 Sélection de Quantité : Un compteur permettant de sélectionner la quantité de produits à ajouter au panier.
+
 Pop-up d'Inscription à la Newsletter
 Invitation à la Newsletter : Une pop-up s'affiche automatiquement pour inviter les utilisateurs à s'inscrire à la newsletter.
 Compteur de Panier
