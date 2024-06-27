@@ -1,12 +1,13 @@
 TP Hetic réalisé avec HTML, CSS et JavaScript
 
-Site e-commerce de sneakers
+##Site e-commerce de sneakers
 
 Sneaker Store est un projet de site web interactif pour une boutique de sneakers. Ce projet met en avant plusieurs fonctionnalités dynamiques, offrant une expérience utilisateur moderne et engageante. La page inclut un menu burger, un carrousel d'images, un compteur de produits, et une pop-up d'inscription à la newsletter.
 
 ## Fonctionnalités
 
 -**Menu Burger**
+
 Navigation Responsive : Un menu burger permettant d'ouvrir et de fermer la navigation sur les petits écrans.
 Carrousel d'Images
 Affichage Dynamique : Un carrousel interactif pour visualiser différentes images de sneakers.
