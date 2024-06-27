@@ -25,5 +25,6 @@ Pop-up d'Inscription à la Newsletter
 
 
 Invitation à la Newsletter : Une pop-up s'affiche automatiquement pour inviter les utilisateurs à s'inscrire à la newsletter.
+
 Compteur de Panier
 Affichage du Panier : L'icône du panier affiche le nombre d'articles ajoutés.
