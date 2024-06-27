@@ -6,14 +6,14 @@ Sneaker Store est un projet de site web interactif pour une boutique de sneakers
 
 ## Fonctionnalités
 
--**Menu Burger**
+- **Menu Burger**
 
 Navigation Responsive : Un menu burger permettant d'ouvrir et de fermer la navigation sur les petits écrans.
 
--**Carrousel d'Images**
+- **Carrousel d'Images**
 Affichage Dynamique : Un carrousel interactif pour visualiser différentes images de sneakers.
 
-Navigation par Flèches : Boutons de navigation pour parcourir les images.
+- **Navigation par Flèches** : Boutons de navigation pour parcourir les images.
 
 Survol des Miniatures : Changement d'image principale en survolant les miniatures.
 
