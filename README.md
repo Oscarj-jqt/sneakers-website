@@ -12,6 +12,7 @@ Navigation Responsive : Un menu burger permettant d'ouvrir et de fermer la navig
 
 Carrousel d'Images
 Affichage Dynamique : Un carrousel interactif pour visualiser différentes images de sneakers.
+
 Navigation par Flèches : Boutons de navigation pour parcourir les images.
 Survol des Miniatures : Changement d'image principale en survolant les miniatures.
 Compteur de Produits
