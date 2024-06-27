@@ -14,6 +14,7 @@ Carrousel d'Images
 Affichage Dynamique : Un carrousel interactif pour visualiser différentes images de sneakers.
 
 Navigation par Flèches : Boutons de navigation pour parcourir les images.
+
 Survol des Miniatures : Changement d'image principale en survolant les miniatures.
 Compteur de Produits
 Sélection de Quantité : Un compteur permettant de sélectionner la quantité de produits à ajouter au panier.
